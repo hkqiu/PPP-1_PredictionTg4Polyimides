@@ -6,4 +6,4 @@ And our work will also be listed below as it is published.
 
 To Train your model, use /src/reg_train.ipynb as template. Note that you need change the paths mentioned according your computer configuration!
 
-For the use of _polyScreen_, please email [hkqiu@ciac.ac.cn](hkqiu@ciac.ac.cn).
+For the usage of _polyScreen_, please email [hkqiu@ciac.ac.cn](hkqiu@ciac.ac.cn).
